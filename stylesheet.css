@@ -1,3 +1,6 @@
+
+
+
 body{
   background-color: gray;
   background-position: center;
@@ -15,6 +18,13 @@ h1{
   font-family: 
   font-size: 15px
   font-style: normal;
+}
+
+nav{
+  background color: black;
+}
+a: hover {
+  background-color: purple;
 }
   
 li a {
