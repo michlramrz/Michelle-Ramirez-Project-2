@@ -32,3 +32,23 @@ li a {
     width: 60px;
     background-color: #dddddd;
 }
+
+div {
+border: 1px solid black;
+
+}
+
+#page1 .myDiv {
+border: 1px solid green;
+width: 200px;
+}
+
+#page2 .myDiv {
+border: 1px solid red;
+width: 100px;
+}
+
+#page3 .myDiv {
+border: 1px solid blue;
+width: 100px;
+}
