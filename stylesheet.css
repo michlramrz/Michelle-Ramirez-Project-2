@@ -20,17 +20,17 @@ solid: #0000FF;
 }
 
 #page1 .myDiv {
-border: 1px; solid: #A52A2A;
+border: 1px; solid: #F5DEB3;
 width: 100px;
 }
 
 #page2 .myDiv {
-border: 1px; solid: #A52A2A;
+border: 1px; solid: #F5DEB3;
 width: 100px;
 }
 
 #page3 .myDiv {
-border: 1px; solid: #A52A2A;
+border: 1px; solid: #F5DEB3;
 width: 100px;
 }
 
@@ -59,5 +59,5 @@ p {
   background-color: #FFB6C1;
   color: #000000;
   text-align: center;
-  border: 3px; groove: #A52A2A;
+  border: 3px; groove: #F5DEB3;
 }
