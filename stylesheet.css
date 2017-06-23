@@ -1,6 +1,4 @@
-
-
-
+/* stylesheet.css */
 body{
   background-color: gray;
   background-position: center;
@@ -13,11 +11,24 @@ body{
   background-size; cover;
 }
 
-h1{
-  color:red;
-  font-family: courier new;
-  font-size: 15px;
-  font-style: normal;
+div {
+border: 1px solid black;
+
+}
+
+#page1 .myDiv {
+border: 1px solid gray;
+width: 100px;
+}
+
+#page2 .myDiv {
+border: 1px solid gray;
+width: 100px;
+}
+
+#page3 .myDiv {
+border: 1px solid gray;
+width: 100px;
 }
 
 nav{
@@ -33,22 +44,16 @@ li a {
     background-color: #dddddd;
 }
 
-div {
-border: 1px solid black;
-
+h1{
+  color:red;
+  font-family: courier new;
+  font-size: 15px;
+  font-style: normal;
 }
 
-#page1 .myDiv {
-border: 1px solid green;
-width: 200px;
-}
-
-#page2 .myDiv {
-border: 1px solid red;
-width: 100px;
-}
-
-#page3 .myDiv {
-border: 1px solid blue;
-width: 100px;
+p {
+  background-color: #FFFF33;
+  color: #333300;
+  text-align: center;
+  border: 3px groove #FFFF33
 }
