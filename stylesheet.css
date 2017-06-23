@@ -2,7 +2,7 @@
 /* stylesheet.css */
 
 body{
-  background-color: #DC143C;
+  background-color: ##FFB6C1;
   background-position: center;
   font-family: 'arial black';
   font-size: 20px;
@@ -35,17 +35,17 @@ width: 100px;
 }
 
 nav{
-  background color: #6495ED;
+  background color: #FFB6C1;
 }
-a: hover;
+
 {
-  background-color: #DC143C;
+  background-color: #FFB6C1;
 }
   
 li a {
     display: block;
     width: 60px;
-    background-color: #DC143C;
+    background-color: #FFB6C1;
 }
 
 h1{
@@ -56,8 +56,8 @@ h1{
 }
 
 p {
-  background-color: #DC143C;
-  color: #FF1493;
+  background-color: #FFB6C1;
+  color: #000000;
   text-align: center;
   border: 3px; groove: #A52A2A;
 }
