@@ -35,10 +35,6 @@ div {
 nav{
   background color: #FFB6C1;
 }
-
-{
-  background-color: #FFB6C1;
-}
   
 li a {
   display: block;
@@ -57,5 +53,5 @@ p {
   background-color: #FFB6C1;
   color: #000000;
   text-align: center;
-  border: 3px; groove: #F5DEB3;
+  border: 3px;
 }
