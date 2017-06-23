@@ -20,17 +20,17 @@ solid: #0000FF;
 }
 
 #page1 .myDiv {
-border: 1px; solid: #F5DEB3;
+border: 1px; solid #F5DEB3;
 width: 100px;
 }
 
 #page2 .myDiv {
-border: 1px; solid: #F5DEB3;
+border: 1px; solid #F5DEB3;
 width: 100px;
 }
 
 #page3 .myDiv {
-border: 1px; solid: #F5DEB3;
+border: 1px; solid #F5DEB3;
 width: 100px;
 }
 
