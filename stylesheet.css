@@ -46,6 +46,10 @@ body{
   body { font-size: medium; }
 }
 
+img  {
+    float: right;
+}
+
 div {
   border: 1px;
 }
